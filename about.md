@@ -1,6 +1,3 @@
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/IMG_5728.JPG
-
 ---
 layout: page
 title: About
